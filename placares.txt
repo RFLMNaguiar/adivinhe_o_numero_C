@@ -1,0 +1,8 @@
+Data de início: Tue Jun 15 14:48:04 2021
+	- Ganhou: SIM; 
+	- Dificuldade selecionada: 1;
+	- Número resposta: 27;
+	- Número de tentativas: 20;
+	- Taxa de acerto: 20.000000%;
+	- Tentativas: [50, 25, 35, 30, 27].
+
